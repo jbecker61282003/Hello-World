@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>PSA</name>
+        <order/>
+        <roles>x_69046_psa.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-21 19:22:01</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ac503090f123200bd8c0dbce1050ece</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PSA</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PSA" source="x_69046_psa">cec58f810f123200bd8c0dbce1050e36</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PSA">cec58f810f123200bd8c0dbce1050e36</sys_scope>
+        <sys_update_name>sys_app_application_4ac503090f123200bd8c0dbce1050ece</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-21 19:22:01</sys_updated_on>
+        <title>PSA</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
